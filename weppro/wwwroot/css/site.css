@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.txt {
+    border-radius: 0;
+    width: 500px;
+    border-radius: 30px;
+    height: 54px;
+    text-align: center;
+}
+.bt {
+    width: 200px;
+    height: 80px;
+    margin-left: 144px;
+    margin-top: 15px;
+    background-color: #dcdcdd;
+}
+.all {
+    padding-left: 308px;
+}
+.cen {
+    text-align: center
+}
